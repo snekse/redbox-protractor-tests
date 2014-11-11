@@ -1,0 +1,19 @@
+{
+  "name": "redbox_protractor_tests",
+  "version": "0.0.0",
+  "description": "Example project to demonstrate protractor running against the public Redbox site",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "protractor",
+    "redbox",
+    "e2e"
+  ],
+  "author": "Derek Eskens",
+  "license": "MIT"
+}
